@@ -1,0 +1,10 @@
+export { default as LandingNavbar } from "./LandingNavbar";
+export { default as HeroSection } from "./HeroSection";
+export { default as TrustedBySection } from "./TrustedBySection";
+export { default as FeaturesSection } from "./FeaturesSection";
+export { default as HowItWorksSection } from "./HowItWorksSection";
+export { default as PreviewShowcaseSection } from "./PreviewShowcaseSection";
+export { default as PricingSection } from "./PricingSection";
+export { default as TestimonialsSection } from "./TestimonialsSection";
+export { default as FaqSection } from "./FaqSection";
+export { default as FooterSection } from "./FooterSection";

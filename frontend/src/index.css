@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply m-0 min-h-screen bg-slate-950 text-slate-100 antialiased;
+}
+
+#root {
+  @apply min-h-screen;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950;
+}

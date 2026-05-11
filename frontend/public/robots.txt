@@ -1,0 +1,5 @@
+# PromptCraft AI — update Sitemap URL to your production origin before launch.
+User-agent: *
+Allow: /
+
+# Sitemap: https://your-domain.example/sitemap.xml
